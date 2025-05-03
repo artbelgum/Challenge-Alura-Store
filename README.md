@@ -21,3 +21,9 @@ Resultados esperados:
 📝 Enviar una recomendación: (después del análisis, escribir un texto explicando a qué tienda debería vender el Sr. João y por qué, basándome en los datos presentados).
 
 Este proyecto se realizó con Google Colab en el lenguaje de programación Python.
+
+# Estructura del proyecto
+
+1. Como primera parte se encuentra todo el desarrollo generado así como las gráficas obtenidas.
+2. Después se encontrará un resumen con una tabla comparativa de los resultados
+3. Al final se encuentra el informe ejecutivo.
